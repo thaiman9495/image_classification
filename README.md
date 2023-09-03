@@ -1,1 +1,1 @@
-# image_classification
+The ojective of the project is to predict handwritten digits. Convolutional neural network is used as prediction model which is trained based on MNIST dataset.
